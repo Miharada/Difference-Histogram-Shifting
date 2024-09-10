@@ -27,9 +27,9 @@ To compile the project, use the following commands. Ensure that OpenCV is correc
 
 ## Usage
    ```bash
-   ./embed <image.png> <data>
+./embed <image.png> <data>
 ```
 
-  ```bash
-   ./extract <embeddedImage.png>
+```bash
+./extract <embeddedImage.png>
 ```
