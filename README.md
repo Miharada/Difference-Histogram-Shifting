@@ -6,6 +6,9 @@ Welcome to the repository for the **Difference Histogram Shifting (DHS)** method
 
 Difference Histogram Shifting is a technique used to discreetly embed information within an image by manipulating the distribution of pixel intensity differences.
 
+Article: 
+https://medium.com/@kaztr.research/steganography-difference-histogram-shifting-algorithm-633bef0e81a3 [Bahasa Indonesia]
+
 ## Requirements
 
 - **OpenCV Library for C++**: This project relies on OpenCV for image processing tasks.
